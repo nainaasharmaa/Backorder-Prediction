@@ -1,6 +1,3 @@
-It has two files of Dataset for training and testing as files are big we are not providing it with this but you can have it on ineuron site.
-
-Dataset link - https://github.com/rodrigosantis1/backorder_prediction/blob/master/dataset.rar
 
 ABOUT THE PROJECT
 
